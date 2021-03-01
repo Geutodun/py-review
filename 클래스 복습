@@ -1,0 +1,9 @@
+class Rhythm:
+    def __init__(self, name, speed):
+        self.name = name
+        self.speed = speed
+        print("지금 곡의 이름은 {0}이며, 스피드는 {1}입니다".format(self.name, self.speed))
+
+
+
+Game = Rhythm("성준이 강원도에서 감귤 포장하다", 4)
