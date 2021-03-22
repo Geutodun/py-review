@@ -88,6 +88,7 @@ Row - 가로 colum - 세로
                              
 			     border-collapse: separate; - 선을 띄음
                              border-collapse: collapse; - 선을 제거함, 선을 하나로 만듬
+			     border: solid 1px; - 선을 만듬
 	       __________________________________________________________________________
 	        
 		<td rowspan="3"> </td> - 세로로 3개를 합침
