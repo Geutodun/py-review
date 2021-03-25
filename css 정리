@@ -1,0 +1,17 @@
+color: 색깔;
+<style>
+		h1 {
+			color: pink;
+			font-size: 4em;
+		}
+		h3 {
+			color: blue;
+			text-shadow: 10px 10px 2px yellow;
+		}
+		p{
+			color: red;
+			font-style: italic;
+			font-weight: bold;
+			text-decoration: underline;
+		}
+	</style>
